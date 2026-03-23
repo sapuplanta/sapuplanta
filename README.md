@@ -13,7 +13,7 @@ Computer science student who loves building projects and learning new tech<br> I
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sapuplanta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sapuplanta&icon=4&color=11)](https://visitcount.itsvg.in)
