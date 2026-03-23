@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Science<br>Learning as I code while working on small projects
+Computer science student who loves building projects and learning new tech<br> I enjoy working with Linux and exploring how systems works<br>Always experimenting and improving my skills through hands-on projects
 
 
 ## 🌐 Socials:
